@@ -1,0 +1,23 @@
+{
+  "name": "feedspace",
+  "version": "1.0.0",
+  "description": "Work with your Feedspace reviews and testimonials from Cursor: read and filter feedback, build Wall of Love widgets and collection forms, and manage workspaces. Hosted MCP server with OAuth sign-in, no API key to copy.",
+  "author": {
+    "name": "Feedspace"
+  },
+  "homepage": "https://feedspace.io",
+  "repository": "https://github.com/Feedspace/mcp-server-feedspace",
+  "license": "MIT",
+  "keywords": [
+    "feedspace",
+    "reviews",
+    "testimonials",
+    "wall-of-love",
+    "social-proof",
+    "feedback",
+    "widgets",
+    "forms"
+  ],
+  "logo": "assets/logo.svg",
+  "mcpServers": "mcp.json"
+}
