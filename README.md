@@ -90,7 +90,3 @@ intact.
 - [MCP overview](https://docs.feedspace.io/mcp/overview)
 - [Feedspace docs](https://docs.feedspace.io)
 - Questions or problems: [support@feedspace.io](mailto:support@feedspace.io)
-
-## License
-
-MIT - see [LICENSE](LICENSE).
