@@ -8,11 +8,6 @@
   Work with your customer reviews and testimonials without leaving the editor.
 </p>
 
-<p align="center">
-  <a href="https://cursor.com/marketplace"><img alt="Cursor Marketplace" src="https://img.shields.io/badge/Cursor-Marketplace-1C54E3"></a>
-  <a href="LICENSE"><img alt="MIT" src="https://img.shields.io/badge/license-MIT-1C54E3"></a>
-</p>
-
 ---
 
 [Feedspace](https://feedspace.io) collects text, video, audio and social reviews from your
